@@ -12,6 +12,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 - 🔍 Obsessed with code quality, performance, and maintainability
 - 🔧 Tinkerer by nature — always experimenting with new tools
 - 🌱 Currently diving deeper into **modern JS stacks** and **DevOps**
+- 🐛 Love squashing bugs and solving tricky issues
 
 ---
 
@@ -19,13 +20,14 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 
 **Languages & Frameworks**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Phalcon](https://img.shields.io/badge/-Phalcon-0e83cd?style=flat&logo=phalcon&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Phalcon](https://img.shields.io/badge/-Phalcon-0e83cd?style=flat&logo=phalcon&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -35,6 +37,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 **Tools & Workflow**  
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
