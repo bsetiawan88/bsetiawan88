@@ -45,6 +45,11 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-6c3eff?style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0078D6?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ---
 
