@@ -35,6 +35,8 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### **Development & Debugging Tools**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0078D6?style=flat&logo=windows&logoColor=white)
 ![Xdebug](https://img.shields.io/badge/-Xdebug-0e83cd?style=flat)
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-6c3eff?style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -51,9 +53,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### **Operating Systems & Editors**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL-0078D6?style=flat&logo=windows&logoColor=white)
+### **Operating Systems**  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
