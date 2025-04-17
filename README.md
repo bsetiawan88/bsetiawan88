@@ -60,8 +60,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 ---
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsetiawan88&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsetiawan88&theme=merko)](https://git.io/streak-stats) 
 
 ---
 
