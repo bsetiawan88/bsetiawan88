@@ -60,9 +60,9 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into funct
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsetiawan88&theme=black-ice)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsetiawan88)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=bsetiawan88)) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bsetiawan88&theme=onedark&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bsetiawan88&theme=onedark&rank=-C,-B,-?)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=bsetiawan88&theme=onedark&rank=-C,-B,-?))
 
 ---
 
